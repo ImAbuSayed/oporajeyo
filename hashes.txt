@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Oporajeyo
+
+This log tracks the cryptographic history and versioning for the song **Oporajeyo** (oporajeyo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T06:10:57.404746 | `v1` | `42c90c77d74a32494e524ee78648645fb6e2b545c328177099c94534cd828413` | `cbdf6f138544910d2b42edd68b0e521eba7121b7071eb1e8f7744e0fda8cf5fb` | `2026-05-10_oporajeyo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/oporajeyo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Oporajeyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oporajeyo/) |
+| **Get License** | [Secure Licensing Rights for Oporajeyo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/oporajeyo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `42c90c77d74a32494e524ee78648645fb6e2b545c328177099c94534cd828413` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
