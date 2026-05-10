@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit e919daf7cc7e52fbd7ee1e044825fd866a7569ca
+> অতল জলোর গভীরে খুঁজি তোমার ঠিকানা
+> নিঝুম রাতের আঁধারে কেন বোঝো না
+> বুকের ভেতর জমে থাকা প্রেমেরই মোহনা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
